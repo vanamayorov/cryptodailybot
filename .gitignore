@@ -1,0 +1,10 @@
+config.py
+venv/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.idea/
+Procfile
+requirements.txt
